@@ -12,3 +12,7 @@ Você vai precisar ter das dependências do .NET:
 ## Documentação
 Para abrir a documentação no Swagger, após rodar a aplicação acesse:
 `http://localhost:{port}/swagger/index.html`
+
+## Conexão com o Banco de dados Postgres
+Para facilitar o setup da aplicação e utlizar ferramentas em cloud utilizei um banco de dados gratuito na Vercel.
+https://vercel.com/docs/storage/vercel-postgres
